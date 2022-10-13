@@ -1,12 +1,6 @@
 hello world !
 This line will make a conflic(i delete one line)
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
+this change happend on web of github.com
 this is master branch last 3
 this is hot-fix branch last 4
 i have insert one more line
