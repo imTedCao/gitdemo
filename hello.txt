@@ -1,6 +1,5 @@
 hello world !
-hello git!
-hello git!(i delete one line)
+This line will make a conflic(i delete one line)
 hello git!
 hello git!
 hello git!
