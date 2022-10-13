@@ -8,5 +8,6 @@ hello git!
 hello git!
 hello git!
 this is master branch last 3
+this is hot-fix branch last 4
 i have insert one more line
 i modified hello.txt on hot-fix branch
